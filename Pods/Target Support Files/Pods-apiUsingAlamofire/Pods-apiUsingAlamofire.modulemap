@@ -1,0 +1,6 @@
+framework module Pods_apiUsingAlamofire {
+  umbrella header "Pods-apiUsingAlamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
